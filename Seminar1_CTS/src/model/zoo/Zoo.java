@@ -1,6 +1,5 @@
 package model.zoo;
 
-import model.animal.Mamifer;
 import model.animal.Vietate;
 import model.animal.Zookeper;
 
