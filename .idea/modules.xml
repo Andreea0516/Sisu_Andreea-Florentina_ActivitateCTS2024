@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Builder_Inner/Builder_Inner.iml" filepath="$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Builder_Inner/Builder_Inner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Prototype(Subiect A4)/Prototype(Subiect A4).iml" filepath="$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Prototype(Subiect A4)/Prototype(Subiect A4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 3/Seminar 3.iml" filepath="$PROJECT_DIR$/Seminar 3/Seminar 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_CTS/Seminar1_CTS.iml" filepath="$PROJECT_DIR$/Seminar1_CTS/Seminar1_CTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sminarCTS.iml" filepath="$PROJECT_DIR$/sminarCTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Seminar5(Subiect A1-Pacient).iml" filepath="$PROJECT_DIR$/Seminar5(Subiect A1-Pacient)/Seminar5(Subiect A1-Pacient).iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminarCTS.iml" filepath="$PROJECT_DIR$/seminarCTS.iml" />
     </modules>
   </component>
 </project>
